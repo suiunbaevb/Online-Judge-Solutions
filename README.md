@@ -1,6 +1,6 @@
 # UVA Online Judge Solutions
 
-This repository contains my solutions to a variety of algorithmic problems from the [UVA Online Judge](https://onlinejudge.org/)
+This repository contains my solutions to a variety of algorithmic problems from the [UVA Online Judge](https://onlinejudge.org/).
 It was my private folder, that was recommitted to a public repository
 ## 📁 Folder Structure
 
